@@ -10,5 +10,5 @@ Console.WriteLine("\n");
 
 Console.WriteLine("Smartfone Iphone");
 Smartfone iphone = new Nokia(numero: "4138", Modelo: "Modelo 2", Imei: "22222222222", Memoria: 128);
-nokia.Ligar();
-nokia.InstalarAplicativo("Whatsapp");
+iphone.Ligar();
+iphone.InstalarAplicativo("Telegran");
